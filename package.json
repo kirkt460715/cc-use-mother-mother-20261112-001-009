@@ -1,0 +1,1 @@
+{"name":"ward-renovation-simulator","version":"1.0.0","private":true,"type":"module","engines":{"node":">=20"},"scripts":{"test":"node --test tests/*.test.js","build":"node syntax.js","demo":"node ward-sim.js demo fixtures/wards.json"}}

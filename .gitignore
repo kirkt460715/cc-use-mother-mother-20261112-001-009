@@ -1,0 +1,5 @@
+node_modules/
+workspace/
+*.staging
+*.lock
+!package-lock.json
